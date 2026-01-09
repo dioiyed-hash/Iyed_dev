@@ -41,6 +41,8 @@ This project is designed for learning purposes and as a professional portfolio p
 ```bash
 python electrical_load_calculator_ru.py
 
+```
+
 5// Why I Created This Project :
 
 I created this project to combine my interest in electrical systems with my passion for programming.  
